@@ -1,0 +1,13 @@
+raw		原始Faster RCNN
+1		有位置 1个relation 1层
+2		无位置 1个relation 1层
+3		无位置 1个relation 2层
+4		无位置 4个relation 1层
+5		无位置 4个relation 2层
+6		有位置 1个relation 2层
+7		有位置 4个relation 1层
+8		有位置 4个relation 2层
+9		raw +1 层
+10		有位置 16个relation 2层
+11		无位置 16个relation 2层
+12		有位置 16个relation 2层 加report中EQ(6)的位置embedding
